@@ -1,3 +1,4 @@
+import sys
 print("Enter 3 numbers ")
 a = int(sys.argv[1])
 b = int(sys.argv[2])
